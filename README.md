@@ -1,4 +1,4 @@
-# Youtube_Clone
+# VidTube
 
 ●Search for videos in the serachbar with any keyword. Results are generated from the Youtube V3 API. 
 
