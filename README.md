@@ -16,7 +16,7 @@ git clone https://github.com/MichiasAsnake/Youtube_Clone
 2. Navigate to the Project Directory.
 
 ```shell
-cd JobsSpot
+cd Youtube_Clone
 ```
 3. Run npm install.
 
