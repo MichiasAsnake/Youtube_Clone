@@ -23,7 +23,7 @@ cd Youtube_Clone
 ```shell
 npm install
 ```
-4. Navigate to the Project Directory.
+4. Open the project in browser.
 
 ```shell
 npm run dev
